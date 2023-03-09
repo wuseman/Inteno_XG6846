@@ -1,6 +1,6 @@
 # Hacking Inteno XG6846
 
-This README was posted on my new [blog](https://nr1.nu/blog/2023/01/11/hacking-inteno-xg6846/) as my first post 2023-01-11`, sharing it on github for fun 
+This README was posted on my new [blog](https://nr1.nu/blog/2023/01/11/hacking-inteno-xg6846/) as my first post `2023-01-11`, sharing it on github for fun 
 
 __Inteno XG6846 is installed in millions of Swedes' homes and it sits between the router and the switch! With some operators, it is a requirement to be able to watch TV. Now it's time for take control over this device!__
 
